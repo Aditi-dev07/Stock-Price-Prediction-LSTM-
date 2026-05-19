@@ -21,29 +21,6 @@ As a student exploring **Deep Learning for Time-Series**, this project was creat
 This project focuses on **learning and implementation**, not financial trading.
 
 ---
-
-## 🤖 Use of ChatGPT
-
-ChatGPT was used as a **learning assistant** for:
-
-* Understanding LSTM concepts
-* Debugging implementation errors
-* Improving code structure
-* Writing clean documentation
-* Interpreting model evaluation metrics
-
-All core tasks were performed by me, including:
-
-* Data preprocessing
-* Model building
-* Training
-* Evaluation
-* Result visualization
-
-This project reflects my **practical understanding of time-series deep learning**.
-
----
-
 ## 📊 Dataset
 
 * **Source:** Yahoo Finance
